@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="035b911a-c540-4ae5-93d1-394c2f35d6af" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio1/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio2/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio3/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio4/InvoiceItemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio5/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio6/DateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio7/TimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio8/BallTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio1/TestCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio2/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio2/TestRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio3/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio3/TestEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio4/InvoiceItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio4/TestInvoiceItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio5/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio5/TestAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio6/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio6/TestDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio7/TestTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio7/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio8/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio8/TestBall.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2cM4WCIhAmqU0c683zbARUcqqCr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestBall.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCircle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestDate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestEmployee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestInvoiceItem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestRectangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestTime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio1.TestCircle.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.AccountTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.BallTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.CircleTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.CircleTest.getArea.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.CircleTest.getCircumference.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.CircleTest.getRadius.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.CircleTest.setRadius.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.CircleTest.testToString.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.DateTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.EmployeeTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.InvoiceItemTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.RectangleTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.RectangleTest.getArea.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.RectangleTest.getLength.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.RectangleTest.getPerimeter.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.RectangleTest.getWidth.executor&quot;: &quot;Profiler#1&quot;,
+    &quot;JUnit.RectangleTest.setLength.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.RectangleTest.setWidth.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.RectangleTest.testToString.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.TimeTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.TimeTest.nextSecond.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.TimeTest.previousSecond.executor&quot;: &quot;Coverage&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio8" />
+      <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio7" />
+      <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio6" />
+      <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio5" />
+      <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TimeTest">
+    <configuration name="BallTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Clases" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio8" />
+      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio8.BallTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Clases" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio6" />
+      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio6.DateTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Clases" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio7" />
+      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio7.TimeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeTest.nextSecond" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Clases" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio7" />
+      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio7.TimeTest" />
+      <option name="METHOD_NAME" value="nextSecond" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeTest.previousSecond" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Clases" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio7" />
+      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio7.TimeTest" />
+      <option name="METHOD_NAME" value="previousSecond" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TimeTest" />
+        <item itemvalue="JUnit.BallTest" />
+        <item itemvalue="JUnit.TimeTest.nextSecond" />
+        <item itemvalue="JUnit.TimeTest.previousSecond" />
+        <item itemvalue="JUnit.DateTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="035b911a-c540-4ae5-93d1-394c2f35d6af" name="Changes" comment="" />
+      <created>1707908147153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707908147153</updated>
+      <workItem from="1707908148207" duration="6648000" />
+      <workItem from="1707914897047" duration="8000" />
+      <workItem from="1707927921255" duration="30000" />
+      <workItem from="1707927963873" duration="4103000" />
+      <workItem from="1708011747703" duration="6180000" />
+      <workItem from="1708026044550" duration="318000" />
+      <workItem from="1708080586624" duration="27000" />
+      <workItem from="1708080827904" duration="114000" />
+      <workItem from="1708081753940" duration="2231000" />
+      <workItem from="1708087664615" duration="293000" />
+      <workItem from="1708445713261" duration="6467000" />
+      <workItem from="1708454624644" duration="14000" />
+      <workItem from="1708456666052" duration="1995000" />
+      <workItem from="1708506652866" duration="96000" />
+      <workItem from="1708508961972" duration="266000" />
+      <workItem from="1708512659736" duration="373000" />
+      <workItem from="1708513059242" duration="962000" />
+      <workItem from="1708514254826" duration="277000" />
+      <workItem from="1708514716254" duration="280000" />
+      <workItem from="1708515528309" duration="172000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Clases$RectangleTest.ic" NAME="RectangleTest Coverage Results" MODIFIED="1708447302175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$BallTest.ic" NAME="BallTest Coverage Results" MODIFIED="1708461595562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio8.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$CircleTest.ic" NAME="CircleTest Coverage Results" MODIFIED="1708446527527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$RectangleTest_setLength.ic" NAME="RectangleTest.setLength Coverage Results" MODIFIED="1708447241278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$RectangleTest_testToString.ic" NAME="RectangleTest.testToString Coverage Results" MODIFIED="1708447293457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$CircleTest_getRadius.ic" NAME="CircleTest.getRadius Coverage Results" MODIFIED="1708446451216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$EmployeeTest.ic" NAME="EmployeeTest Coverage Results" MODIFIED="1708448625992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$RectangleTest_getArea.ic" NAME="RectangleTest.getArea Coverage Results" MODIFIED="1708447277772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$TimeTest.ic" NAME="TimeTest Coverage Results" MODIFIED="1708512886421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio7.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$TimeTest_previousSecond.ic" NAME="TimeTest.previousSecond Coverage Results" MODIFIED="1708460612837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio7.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$AccountTest.ic" NAME="AccountTest Coverage Results" MODIFIED="1708452662032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio5.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$CircleTest_testToString.ic" NAME="CircleTest.testToString Coverage Results" MODIFIED="1708446516218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$RectangleTest_setWidth.ic" NAME="RectangleTest.setWidth Coverage Results" MODIFIED="1708447270287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$DateTest.ic" NAME="DateTest Coverage Results" MODIFIED="1708453148745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio6.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$CircleTest_setRadius.ic" NAME="CircleTest.setRadius Coverage Results" MODIFIED="1708446461334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$RectangleTest_getPerimeter.ic" NAME="RectangleTest.getPerimeter Coverage Results" MODIFIED="1708447284224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$InvoiceItemTest.ic" NAME="InvoiceItemTest Coverage Results" MODIFIED="1708449231044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio4.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$CircleTest_getCircumference.ic" NAME="CircleTest.getCircumference Coverage Results" MODIFIED="1708446485185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$TimeTest_nextSecond.ic" NAME="TimeTest.nextSecond Coverage Results" MODIFIED="1708460753344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio7.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$CircleTest_getArea.ic" NAME="CircleTest.getArea Coverage Results" MODIFIED="1708446473811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$RectangleTest_getLength.ic" NAME="RectangleTest.getLength Coverage Results" MODIFIED="1708447233311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio2.*</FILTER>
+    </SUITE>
+  </component>
+</project>
