@@ -56,6 +56,7 @@ class AccountTest {
         int BalanceInicial = 500;
         Account account = new Account("A05", "Angela", BalanceInicial);
 
+
         int amount = 300;
         int BalanceNuevo = account.debit(amount);
 
