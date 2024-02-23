@@ -64,7 +64,7 @@ public class Time {
             this.second = second+1;
         }
 
-        return new Time(hour,minute,second);
+        return this;
     }
 
     public Time previousSecond() {
@@ -84,6 +84,6 @@ public class Time {
             this.second = second-1;
         }
 
-        return new Time(hour,minute,second);
+        return this;
     }
 }

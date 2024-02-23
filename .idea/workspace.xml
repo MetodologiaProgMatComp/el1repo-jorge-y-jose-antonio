@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="035b911a-c540-4ae5-93d1-394c2f35d6af" name="Changes" comment="Ejercicios 1 y 2 de la parte 2 hechos (sin tests)">
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio4/MyPoint.java" afterDir="false" />
+    <list default="true" id="035b911a-c540-4ae5-93d1-394c2f35d6af" name="Changes" comment="Ejercicios 3 y 4 de la parte 2 hechos (sin tests)&#10;El 5 empezado">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio3/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio3/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio3/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio3/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio7/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Ejercicio7/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio5/MyLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio5/MyLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio5/MyPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio5/MyPoint.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +61,7 @@
     "Application.es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio1.Main.executor": "Run",
     "Application.es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio2.Main.executor": "Run",
     "Application.es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio3.Main.executor": "Run",
+    "Application.es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio5.Main.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "JUnit.AccountTest.executor": "Coverage",
     "JUnit.BallTest.executor": "Coverage",
@@ -146,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio2.Main" />
+    <configuration name="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio3.Main" />
       <module name="Clases" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio2.*" />
+          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio3.Main" />
+    <configuration name="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio5.Main" />
       <module name="Clases" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio3.*" />
+          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,10 +191,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TestTime" />
+        <item itemvalue="Application.es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio5.Main" />
         <item itemvalue="Application.es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio3.Main" />
         <item itemvalue="JUnit.TimeTest.previousSecond" />
-        <item itemvalue="Application.TestTime" />
-        <item itemvalue="Application.es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +238,8 @@
       <workItem from="1708527862141" duration="5148000" />
       <workItem from="1708545226181" duration="3620000" />
       <workItem from="1708590986073" duration="1334000" />
-      <workItem from="1708616958873" duration="6777000" />
+      <workItem from="1708616958873" duration="8342000" />
+      <workItem from="1708677429384" duration="5036000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicio de clases completo">
       <option name="closed" value="true" />
@@ -272,7 +273,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708554346967</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ejercicios 3 y 4 de la parte 2 hechos (sin tests)&#10;El 5 empezado">
+      <option name="closed" value="true" />
+      <created>1708639634352</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708639634352</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -305,7 +314,8 @@
     <MESSAGE value="Ejercicio de clases completo" />
     <MESSAGE value="Introducciones de la parte 2 y comienzo del ejercicio 1 de la parte 2" />
     <MESSAGE value="Ejercicios 1 y 2 de la parte 2 hechos (sin tests)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios 1 y 2 de la parte 2 hechos (sin tests)" />
+    <MESSAGE value="Ejercicios 3 y 4 de la parte 2 hechos (sin tests)&#10;El 5 empezado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicios 3 y 4 de la parte 2 hechos (sin tests)&#10;El 5 empezado" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Clases$RectangleTest.ic" NAME="RectangleTest Coverage Results" MODIFIED="1708447302175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

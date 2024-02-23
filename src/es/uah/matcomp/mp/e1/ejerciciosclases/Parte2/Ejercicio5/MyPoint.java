@@ -41,10 +41,10 @@ public class MyPoint {
         this.x = x;
         this.y = y;
     }
-
     public String toString() {
         return "(" + x + "," + y + ")";
     }
+
 
 
     public double distance(int xn, int yn) {
@@ -52,7 +52,7 @@ public class MyPoint {
         return Math.sqrt(Math.pow((this.x - xn),2) + Math.pow((this.y - yn),2));
     }
 
-    public double distance(es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio4.MyPoint another) {
+    public double distance(MyPoint another) {
         return Math.sqrt(Math.pow((this.x - another.getX()),2) + Math.pow((this.y - another.getY()),2));
     }
 
