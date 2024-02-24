@@ -26,5 +26,4 @@ public class Author {
         return "Author[Name=" + name + ", email=" + email + "]";
     }
 
-
 }

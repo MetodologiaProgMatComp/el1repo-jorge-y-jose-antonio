@@ -1,7 +1,5 @@
 package Introduccion2Mejorada;
 
-import java.util.Arrays;
-
 public class Book {
 
     private String name;
