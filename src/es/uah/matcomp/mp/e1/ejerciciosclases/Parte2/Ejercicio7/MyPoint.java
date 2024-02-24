@@ -48,7 +48,6 @@ public class MyPoint {
 
 
     public double distance(int xn, int yn) {
-
         return Math.sqrt(Math.pow((this.x - xn),2) + Math.pow((this.y - yn),2));
     }
 
