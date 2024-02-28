@@ -4,85 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="035b911a-c540-4ae5-93d1-394c2f35d6af" name="Changes" comment="Tests terminados, ya esta todo.">
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/ClaseCilinderConComposicion/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/ClaseCilinderConComposicion/CylinderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio1/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio1/StaffTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio1/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio2/Point2DTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio2/Point3DTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio3/MovablePointTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio3/PointTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio4/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio4/RectangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio4/ShapeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio4/SquareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio5/AnimalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio5/CatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio5/DogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio5/MammalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjerciciosIntroductorios/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjerciciosIntroductorios/CylinderTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/ClaseCilinderConComposicion/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/ClaseCilinderConComposicion/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/DiferenciasEntreComposicionYHerencia/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/DiferenciasEntreComposicionYHerencia/LineSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/DiferenciasEntreComposicionYHerencia/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/DiferenciasEntreComposicionYHerencia/TestPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio1/Staff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio2/Point2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio2/Point3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio3/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio3/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio4/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio4/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio4/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio4/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio5/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio5/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio5/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio5/Mammal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjercciosHerencia/Ejercicio5/ProbarClases.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjerciciosIntroductorios/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjerciciosIntroductorios/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/EjerciciosIntroductorios/TestCylinder.java" afterDir="false" />
+    <list default="true" id="035b911a-c540-4ae5-93d1-394c2f35d6af" name="Changes" comment="Añadido Herencias">
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalYSusSubclases/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalYSusSubclases/BigDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalYSusSubclases/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalYSusSubclases/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalYSusSubclases/Ejemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaShapeYSusSubclases/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaShapeYSusSubclases/Pruebas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaShapeYSusSubclases/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaShapeYSusSubclases/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaShapeYSusSubclases/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/GeometricObjectImplementacionEnClasesCircleYRectangle/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/GeometricObjectImplementacionEnClasesCircleYRectangle/Ejemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/GeometricObjectImplementacionEnClasesCircleYRectangle/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/GeometricObjectImplementacionEnClasesCircleYRectangle/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/InterfazResizableYGeometricObject/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/InterfazResizableYGeometricObject/Ejemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/InterfazResizableYGeometricObject/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/InterfazResizableYGeometricObject/ResizableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/InterfazResizableYGeometricObject/Resizeable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/MovableImplementacionEnClaseMovablePoint/Ejemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/MovableImplementacionEnClaseMovablePoint/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/MovableImplementacionEnClaseMovablePoint/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/MovableImplementaciónEnClasesMovablePointYMovableCircle/Ejemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/MovableImplementaciónEnClasesMovablePointYMovableCircle/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/MovableImplementaciónEnClasesMovablePointYMovableCircle/MovableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/MovableImplementaciónEnClasesMovablePointYMovableCircle/MovablePoint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio1/AuthorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio1/AuthorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio1/BookTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio1/BookTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio2/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio2/CustomerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio2/InvoiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio2/InvoiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio3/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio3/AccountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio3/CustomerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio3/CustomerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio4/MyPointTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio4/MyPointTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio5/MyLineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio5/MyLineTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio5/MyPointTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio5/MyPointTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio6/MyCircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio6/MyCircleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio6/MyPointTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio6/MyPointTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio7/MyPointTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio7/MyPointTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio7/MyTriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio7/MyTriangleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio1/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio1/Author.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio1/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio1/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio2/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio2/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio2/Invoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio2/Invoice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio3/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio3/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio3/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio3/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio4/MyPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio4/MyPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio5/MyLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio5/MyLine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio5/MyPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio5/MyPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio6/MyCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio6/MyCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio6/MyPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio6/MyPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio7/MyPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio7/MyPoint.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2/Ejercicio7/MyTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte2Composicion/Ejercicio7/MyTriangle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,8 +42,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -121,6 +71,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Ejemplo.executor": "Run",
     "Application.Introduccion2Mejorada.Main.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.TestAccount.executor": "Run",
@@ -138,6 +89,10 @@
     "Application.es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio5.Main.executor": "Run",
     "Application.es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio6.Main.executor": "Run",
     "Application.es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio7.Main.executor": "Run",
+    "Application.es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaAnimalYSusSubclases.Ejemplo.executor": "Run",
+    "Application.es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.GeometricObjectImplementacionEnClasesCircleYRectangle.Ejemplo.executor": "Run",
+    "Application.es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.InterfazResizableYGeometricObject.Ejemplo.executor": "Run",
+    "Application.es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementaciónEnClasesMovablePointYMovableCircle.Ejemplo.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "JUnit.AccountTest.executor": "Coverage",
     "JUnit.AnimalTest.executor": "Coverage",
@@ -194,7 +149,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Trabajos Java/Clases/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia",
+    "last_opened_file_path": "D:/Trabajos Java/Clases/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -205,11 +160,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Trabajos Java\Clases\src\es\uah\matcomp\mp\e1\ejerciciosclases\PolimorfismoClasesAbstractasEInterfaces" />
       <recent name="D:\Trabajos Java\Clases\Test\Java\es\uah\matcomp\mp\e1\ejerciciosclases\ClasesHerencia" />
       <recent name="D:\Trabajos Java\Clases\Test\Java\es\uah\matcomp\mp\e1\ejerciciosclases" />
       <recent name="D:\Trabajos Java\Clases\src\es\uah\matcomp\mp\e1\ejerciciosclases\ClasesHerencia" />
       <recent name="D:\Trabajos Java\Clases\src\es\uah\matcomp\mp\e1\ejerciciosclases\ClasesHerencia\ClaseCilinderConComposicion" />
-      <recent name="D:\Trabajos Java\Clases\src" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -221,14 +176,18 @@
       <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio4" />
       <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio3" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.InterfazResizableYGeometricObject" />
+      <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementaciónEnClasesMovablePointYMovableCircle" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.AnimalTest">
-    <configuration name="Introduccion2Mejorada.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Introduccion2Mejorada.Main" />
+  <component name="RunManager" selected="Application.es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaAnimalYSusSubclases.Ejemplo">
+    <configuration name="Ejemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementacionEnClaseMovablePoint.Ejemplo" />
       <module name="Clases" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Introduccion2Mejorada.*" />
+          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementacionEnClaseMovablePoint.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2Composicion.Ejercicio7.Main" />
+    <configuration name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaAnimalYSusSubclases.Ejemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaAnimalYSusSubclases.Ejemplo" />
       <module name="Clases" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2Composicion.Ejercicio7.*" />
+          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaAnimalYSusSubclases.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,58 +208,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AnimalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.GeometricObjectImplementacionEnClasesCircleYRectangle.Ejemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.GeometricObjectImplementacionEnClasesCircleYRectangle.Ejemplo" />
       <module name="Clases" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.EjercciosHerencia.Ejercicio5.*" />
+          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.GeometricObjectImplementacionEnClasesCircleYRectangle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.EjercciosHerencia.Ejercicio5" />
-      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.EjercciosHerencia.Ejercicio5.AnimalTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyPointTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.InterfazResizableYGeometricObject.Ejemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.InterfazResizableYGeometricObject.Ejemplo" />
       <module name="Clases" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2Composicion.Ejercicio7.*" />
+          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.InterfazResizableYGeometricObject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio7" />
-      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2Composicion.Ejercicio7.MyPointTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyTriangleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementaciónEnClasesMovablePointYMovableCircle.Ejemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementaciónEnClasesMovablePointYMovableCircle.Ejemplo" />
       <module name="Clases" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2Composicion.Ejercicio7.*" />
+          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementaciónEnClasesMovablePointYMovableCircle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio7" />
-      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2Composicion.Ejercicio7.MyTriangleTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AnimalTest" />
-        <item itemvalue="Application.Introduccion2Mejorada.Main" />
-        <item itemvalue="JUnit.MyTriangleTest" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.MyPointTest" />
+        <item itemvalue="Application.es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaAnimalYSusSubclases.Ejemplo" />
+        <item itemvalue="Application.es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.InterfazResizableYGeometricObject.Ejemplo" />
+        <item itemvalue="Application.es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementaciónEnClasesMovablePointYMovableCircle.Ejemplo" />
+        <item itemvalue="Application.es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.GeometricObjectImplementacionEnClasesCircleYRectangle.Ejemplo" />
+        <item itemvalue="Application.Ejemplo" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +312,7 @@
       <workItem from="1709112982457" duration="719000" />
       <workItem from="1709115011706" duration="1302000" />
       <workItem from="1709118606383" duration="53000" />
-      <workItem from="1709118761308" duration="1533000" />
+      <workItem from="1709118761308" duration="9322000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicio de clases completo">
       <option name="closed" value="true" />
@@ -433,7 +386,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708796309837</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Añadido Herencias">
+      <option name="closed" value="true" />
+      <created>1709121273343</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709121273343</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,7 +411,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
@@ -471,7 +432,8 @@
     <MESSAGE value="Ejercicios 5 y 6 de la parte 2 hechos (sin tests)" />
     <MESSAGE value="Ejercicio 7 de la parte 2 hecho.&#10;Solo faltan los tests." />
     <MESSAGE value="Tests terminados, ya esta todo." />
-    <option name="LAST_COMMIT_MESSAGE" value="Tests terminados, ya esta todo." />
+    <MESSAGE value="Añadido Herencias" />
+    <option name="LAST_COMMIT_MESSAGE" value="Añadido Herencias" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Clases$AuthorTest_setEmail.ic" NAME="AuthorTest.setEmail Coverage Results" MODIFIED="1708777644770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -479,6 +441,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/Clases$CircleTest.ic" NAME="CircleTest Coverage Results" MODIFIED="1708446527527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$es_uah_matcomp_mp_e1_ejerciciosclases_PolimorfismoClasesAbstractasEInterfaces_Interfaces_MovableImplementaciónEnClasesMovablePointYMovableCircle_Ejemplo.ic" NAME="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementaciónEnClasesMovablePointYMovableCircle.Ejemplo Coverage Results" MODIFIED="1709137039220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementaciónEnClasesMovablePointYMovableCircle.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Clases$RectangleTest_setLength.ic" NAME="RectangleTest.setLength Coverage Results" MODIFIED="1708447241278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio2.*</FILTER>
@@ -566,6 +531,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/Clases$AuthorTest_testToString.ic" NAME="AuthorTest.testToString Coverage Results" MODIFIED="1708777658402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Introduccion2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$AnimalTest.ic" NAME="AnimalTest Coverage Results" MODIFIED="1709121122419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.EjercciosHerencia.Ejercicio5.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Clases$RectangleTest_setWidth.ic" NAME="RectangleTest.setWidth Coverage Results" MODIFIED="1708447270287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio2.*</FILTER>
