@@ -4,14 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="035b911a-c540-4ae5-93d1-394c2f35d6af" name="Changes" comment="Faltan los tests y el 6.7">
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalImplementacionAlternativa/Animal y sus subclases.puml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalImplementacionAlternativa/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalImplementacionAlternativa/BigDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalImplementacionAlternativa/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalImplementacionAlternativa/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalImplementacionAlternativa/TestAnimal.java" afterDir="false" />
+    <list default="true" id="035b911a-c540-4ae5-93d1-394c2f35d6af" name="Changes" comment="Quedan los tests">
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/DiferenciasEntreComposicionYHerencia/LineSubTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/DiferenciasEntreComposicionYHerencia/LineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/DiferenciasEntreComposicionYHerencia/PointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalImplementacionAlternativa/BigDogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalImplementacionAlternativa/CatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalImplementacionAlternativa/DogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalYSusSubclases/BigDogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalYSusSubclases/CatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalYSusSubclases/DogTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaShapeYSusSubclases/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaShapeYSusSubclases/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaShapeYSusSubclases/SquareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/GeometricObjectImplementacionEnClasesCircleYRectangle/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/GeometricObjectImplementacionEnClasesCircleYRectangle/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/InterfazResizableYGeometricObject/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/InterfazResizableYGeometricObject/ResizableCircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/MovableImplementacionEnClaseMovablePoint/MovablePointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/MovableImplementaciónEnClasesMovablePointYMovableCircle/MovableCircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/MovableImplementaciónEnClasesMovablePointYMovableCircle/MovablePointTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/DiferenciasEntreComposicionYHerencia/LineSub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/DiferenciasEntreComposicionYHerencia/LineSub.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/MovableImplementaciónEnClasesMovablePointYMovableCircle/MovablePoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/MovableImplementaciónEnClasesMovablePointYMovableCircle/MovablePoint.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,10 +37,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="JUnit5 Test Class" />
         <option value="Interface" />
         <option value="UML Sequence" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -55,6 +70,7 @@
     "Application.Ejemplo.executor": "Run",
     "Application.Introduccion2Mejorada.Main.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.TestAccount.executor": "Run",
     "Application.TestAnimal.executor": "Run",
     "Application.TestBall.executor": "Run",
@@ -88,9 +104,14 @@
     "JUnit.AuthorTest.setEmail.executor": "Coverage",
     "JUnit.AuthorTest.testToString.executor": "Coverage",
     "JUnit.BallTest.executor": "Coverage",
+    "JUnit.BigDogTest (1).executor": "Coverage",
+    "JUnit.BigDogTest.executor": "Coverage",
     "JUnit.BookTest (1).executor": "Coverage",
     "JUnit.BookTest (2).executor": "Coverage",
     "JUnit.BookTest.executor": "Coverage",
+    "JUnit.CatTest (1).executor": "Coverage",
+    "JUnit.CatTest.executor": "Coverage",
+    "JUnit.CircleTest (1).executor": "Coverage",
     "JUnit.CircleTest.executor": "Coverage",
     "JUnit.CircleTest.getArea.executor": "Coverage",
     "JUnit.CircleTest.getCircumference.executor": "Coverage",
@@ -100,9 +121,19 @@
     "JUnit.CustomerTest (1).executor": "Coverage",
     "JUnit.CustomerTest.executor": "Coverage",
     "JUnit.DateTest.executor": "Coverage",
+    "JUnit.DogTest (1).executor": "Coverage",
+    "JUnit.DogTest.executor": "Coverage",
     "JUnit.EmployeeTest.executor": "Coverage",
+    "JUnit.GeometricObjectTest.executor": "Run",
     "JUnit.InvoiceItemTest.executor": "Coverage",
     "JUnit.InvoiceTest.executor": "Coverage",
+    "JUnit.LineSubTest.executor": "Coverage",
+    "JUnit.LineSubTest.getBegin.executor": "Coverage",
+    "JUnit.LineSubTest.setBegin.executor": "Coverage",
+    "JUnit.LineTest.executor": "Coverage",
+    "JUnit.MovableCircleTest.executor": "Coverage",
+    "JUnit.MovablePointTest (1).executor": "Coverage",
+    "JUnit.MovablePointTest.executor": "Coverage",
     "JUnit.MyCircleTest.distance.executor": "Coverage",
     "JUnit.MyCircleTest.executor": "Coverage",
     "JUnit.MyCircleTest.getArea.executor": "Coverage",
@@ -111,6 +142,7 @@
     "JUnit.MyPointTest (1).executor": "Coverage",
     "JUnit.MyPointTest.executor": "Coverage",
     "JUnit.MyTriangleTest.executor": "Coverage",
+    "JUnit.PointTest.executor": "Coverage",
     "JUnit.RectangleTest.executor": "Coverage",
     "JUnit.RectangleTest.getArea.executor": "Coverage",
     "JUnit.RectangleTest.getLength.executor": "Coverage",
@@ -119,6 +151,8 @@
     "JUnit.RectangleTest.setLength.executor": "Coverage",
     "JUnit.RectangleTest.setWidth.executor": "Coverage",
     "JUnit.RectangleTest.testToString.executor": "Coverage",
+    "JUnit.ResizableCircleTest.executor": "Coverage",
+    "JUnit.SquareTest.executor": "Coverage",
     "JUnit.TimeTest.executor": "Coverage",
     "JUnit.TimeTest.nextSecond.executor": "Coverage",
     "JUnit.TimeTest.previousSecond.executor": "Run",
@@ -153,90 +187,102 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio7" />
-      <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio6" />
-      <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio5" />
-      <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio4" />
-      <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio3" />
+      <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia" />
+      <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaAnimalImplementacionAlternativa" />
+      <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaAnimalYSusSubclases" />
+      <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaShapeYSusSubclases" />
+      <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementaciónEnClasesMovablePointYMovableCircle" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.InterfazResizableYGeometricObject" />
       <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementaciónEnClasesMovablePointYMovableCircle" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestAnimal">
-    <configuration name="TestAnimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaAnimalImplementacionAlternativa.TestAnimal" />
+  <component name="RunManager" selected="JUnit.LineSubTest.getBegin">
+    <configuration name="LineSubTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Clases" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaAnimalImplementacionAlternativa.*" />
+          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia" />
+      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.LineSubTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaAnimalYSusSubclases.Ejemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaAnimalYSusSubclases.Ejemplo" />
+    <configuration name="LineSubTest.getBegin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Clases" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaAnimalYSusSubclases.*" />
+          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia" />
+      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.LineSubTest" />
+      <option name="METHOD_NAME" value="getBegin" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.GeometricObjectImplementacionEnClasesCircleYRectangle.Ejemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.GeometricObjectImplementacionEnClasesCircleYRectangle.Ejemplo" />
+    <configuration name="LineSubTest.setBegin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Clases" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.GeometricObjectImplementacionEnClasesCircleYRectangle.*" />
+          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia" />
+      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.LineSubTest" />
+      <option name="METHOD_NAME" value="setBegin" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.InterfazResizableYGeometricObject.Ejemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.InterfazResizableYGeometricObject.Ejemplo" />
+    <configuration name="LineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Clases" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.InterfazResizableYGeometricObject.*" />
+          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia" />
+      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.LineTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementaciónEnClasesMovablePointYMovableCircle.Ejemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementaciónEnClasesMovablePointYMovableCircle.Ejemplo" />
+    <configuration name="PointTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Clases" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementaciónEnClasesMovablePointYMovableCircle.*" />
+          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia" />
+      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.PointTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestAnimal" />
-        <item itemvalue="Application.es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaAnimalYSusSubclases.Ejemplo" />
-        <item itemvalue="Application.es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.InterfazResizableYGeometricObject.Ejemplo" />
-        <item itemvalue="Application.es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementaciónEnClasesMovablePointYMovableCircle.Ejemplo" />
-        <item itemvalue="Application.es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.GeometricObjectImplementacionEnClasesCircleYRectangle.Ejemplo" />
+        <item itemvalue="JUnit.LineSubTest.getBegin" />
+        <item itemvalue="JUnit.LineSubTest.setBegin" />
+        <item itemvalue="JUnit.LineSubTest" />
+        <item itemvalue="JUnit.LineTest" />
+        <item itemvalue="JUnit.PointTest" />
       </list>
     </recent_temporary>
   </component>
@@ -296,7 +342,8 @@
       <workItem from="1709115011706" duration="1302000" />
       <workItem from="1709118606383" duration="53000" />
       <workItem from="1709118761308" duration="10710000" />
-      <workItem from="1709144544160" duration="1568000" />
+      <workItem from="1709144544160" duration="1734000" />
+      <workItem from="1709222845907" duration="12726000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicio de clases completo">
       <option name="closed" value="true" />
@@ -386,7 +433,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709141473231</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Quedan los tests">
+      <option name="closed" value="true" />
+      <created>1709146178736</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1709146178736</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,17 +481,93 @@
     <MESSAGE value="Tests terminados, ya esta todo." />
     <MESSAGE value="Añadido Herencias" />
     <MESSAGE value="Faltan los tests y el 6.7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Faltan los tests y el 6.7" />
+    <MESSAGE value="Quedan los tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quedan los tests" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Clases$AuthorTest_setEmail.ic" NAME="AuthorTest.setEmail Coverage Results" MODIFIED="1708777644770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Introduccion2.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Clases$CircleTest.ic" NAME="CircleTest Coverage Results" MODIFIED="1708446527527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio1.*</FILTER>
+    <SUITE FILE_PATH="coverage/Clases$MovablePointTest__1_.ic" NAME="MovablePointTest (1) Coverage Results" MODIFIED="1709224985703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementaciónEnClasesMovablePointYMovableCircle.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Clases$es_uah_matcomp_mp_e1_ejerciciosclases_PolimorfismoClasesAbstractasEInterfaces_Interfaces_MovableImplementaciónEnClasesMovablePointYMovableCircle_Ejemplo.ic" NAME="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementaciónEnClasesMovablePointYMovableCircle.Ejemplo Coverage Results" MODIFIED="1709137039220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementaciónEnClasesMovablePointYMovableCircle.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$AuthorTest_getGender.ic" NAME="AuthorTest.getGender Coverage Results" MODIFIED="1708777651633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Introduccion2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$CircleTest_testToString.ic" NAME="CircleTest.testToString Coverage Results" MODIFIED="1708446516218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$CatTest__1_.ic" NAME="CatTest (1) Coverage Results" MODIFIED="1709235570222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaAnimalImplementacionAlternativa.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$InvoiceItemTest.ic" NAME="InvoiceItemTest Coverage Results" MODIFIED="1708449231044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio4.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$AuthorTest_getEmail.ic" NAME="AuthorTest.getEmail Coverage Results" MODIFIED="1708777638010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Introduccion2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$CircleTest_getArea.ic" NAME="CircleTest.getArea Coverage Results" MODIFIED="1708446473811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$PointTest.ic" NAME="PointTest Coverage Results" MODIFIED="1709239071656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$DogTest.ic" NAME="DogTest Coverage Results" MODIFIED="1709231175283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaAnimalYSusSubclases.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$MyCircleTest_distance.ic" NAME="MyCircleTest.distance Coverage Results" MODIFIED="1708795074972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio6.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$RectangleTest.ic" NAME="RectangleTest Coverage Results" MODIFIED="1709230307883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaShapeYSusSubclases.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$AuthorTest.ic" NAME="AuthorTest Coverage Results" MODIFIED="1708777666806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Introduccion2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$BigDogTest__1_.ic" NAME="BigDogTest (1) Coverage Results" MODIFIED="1709235603559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaAnimalImplementacionAlternativa.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$LineSubTest_setBegin.ic" NAME="LineSubTest.setBegin Coverage Results" MODIFIED="1709245751458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$RectangleTest_testToString.ic" NAME="RectangleTest.testToString Coverage Results" MODIFIED="1708447293457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$TimeTest_previousSecond.ic" NAME="TimeTest.previousSecond Coverage Results" MODIFIED="1708460612837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio7.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$AccountTest.ic" NAME="AccountTest Coverage Results" MODIFIED="1708792108356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio3.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$AnimalTest.ic" NAME="AnimalTest Coverage Results" MODIFIED="1709121122419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.EjercciosHerencia.Ejercicio5.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$MovableCircleTest.ic" NAME="MovableCircleTest Coverage Results" MODIFIED="1709225290058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementaciónEnClasesMovablePointYMovableCircle.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$CircleTest_getCircumference.ic" NAME="CircleTest.getCircumference Coverage Results" MODIFIED="1708446485185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$BookTest.ic" NAME="BookTest Coverage Results" MODIFIED="1708778264961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Introduccion2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$TimeTest_nextSecond.ic" NAME="TimeTest.nextSecond Coverage Results" MODIFIED="1708460753344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio7.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$BookTest__2_.ic" NAME="BookTest (2) Coverage Results" MODIFIED="1708788056315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$MyCircleTest_getCircumference.ic" NAME="MyCircleTest.getCircumference Coverage Results" MODIFIED="1708795061707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio6.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$MovablePointTest.ic" NAME="MovablePointTest Coverage Results" MODIFIED="1709224791532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementacionEnClaseMovablePoint.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$AuthorTest_setEmail.ic" NAME="AuthorTest.setEmail Coverage Results" MODIFIED="1708777644770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Introduccion2.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$CircleTest.ic" NAME="CircleTest Coverage Results" MODIFIED="1709229956209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaShapeYSusSubclases.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Clases$RectangleTest_setLength.ic" NAME="RectangleTest.setLength Coverage Results" MODIFIED="1708447241278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio2.*</FILTER>
@@ -450,9 +581,6 @@
     <SUITE FILE_PATH="coverage/Clases$MyCircleTest.ic" NAME="MyCircleTest Coverage Results" MODIFIED="1708795542862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio6.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Clases$AuthorTest_getGender.ic" NAME="AuthorTest.getGender Coverage Results" MODIFIED="1708777651633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Introduccion2.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/Clases$BookTest__1_.ic" NAME="BookTest (1) Coverage Results" MODIFIED="1708779381281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Introduccion2Mejorada.*</FILTER>
     </SUITE>
@@ -462,26 +590,17 @@
     <SUITE FILE_PATH="coverage/Clases$MyLineTest.ic" NAME="MyLineTest Coverage Results" MODIFIED="1708794020160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio5.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Clases$CircleTest_testToString.ic" NAME="CircleTest.testToString Coverage Results" MODIFIED="1708446516218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio1.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/Clases$DateTest.ic" NAME="DateTest Coverage Results" MODIFIED="1708453148745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio6.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$ResizableCircleTest.ic" NAME="ResizableCircleTest Coverage Results" MODIFIED="1709224524829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.InterfazResizableYGeometricObject.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Clases$MyCircleTest_getArea.ic" NAME="MyCircleTest.getArea Coverage Results" MODIFIED="1708795082680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio6.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Clases$InvoiceItemTest.ic" NAME="InvoiceItemTest Coverage Results" MODIFIED="1708449231044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio4.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Clases$AuthorTest_getEmail.ic" NAME="AuthorTest.getEmail Coverage Results" MODIFIED="1708777638010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Introduccion2.*</FILTER>
-    </SUITE>
     <SUITE FILE_PATH="coverage/Clases$MyTriangleTest.ic" NAME="MyTriangleTest Coverage Results" MODIFIED="1708796212554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio7.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Clases$CircleTest_getArea.ic" NAME="CircleTest.getArea Coverage Results" MODIFIED="1708446473811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio1.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Clases$MyPointTest.ic" NAME="MyPointTest Coverage Results" MODIFIED="1708795760887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio7.*</FILTER>
@@ -489,23 +608,17 @@
     <SUITE FILE_PATH="coverage/Clases$AuthorTest_getName.ic" NAME="AuthorTest.getName Coverage Results" MODIFIED="1708777631332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Introduccion2.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Clases$MyCircleTest_distance.ic" NAME="MyCircleTest.distance Coverage Results" MODIFIED="1708795074972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio6.*</FILTER>
+    <SUITE FILE_PATH="coverage/Clases$SquareTest.ic" NAME="SquareTest Coverage Results" MODIFIED="1709230667725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaShapeYSusSubclases.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Clases$BallTest.ic" NAME="BallTest Coverage Results" MODIFIED="1708461595562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio8.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Clases$RectangleTest.ic" NAME="RectangleTest Coverage Results" MODIFIED="1708447302175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio2.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Clases$AuthorTest.ic" NAME="AuthorTest Coverage Results" MODIFIED="1708777666806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Introduccion2.*</FILTER>
+    <SUITE FILE_PATH="coverage/Clases$BigDogTest.ic" NAME="BigDogTest Coverage Results" MODIFIED="1709231384264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaAnimalYSusSubclases.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Clases$AuthorTest__2_.ic" NAME="AuthorTest (2) Coverage Results" MODIFIED="1708779715546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio1.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Clases$RectangleTest_testToString.ic" NAME="RectangleTest.testToString Coverage Results" MODIFIED="1708447293457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio2.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Clases$MyPointTest__1_.ic" NAME="MyPointTest (1) Coverage Results" MODIFIED="1708794350667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio6.*</FILTER>
@@ -516,17 +629,17 @@
     <SUITE FILE_PATH="coverage/Clases$TimeTest.ic" NAME="TimeTest Coverage Results" MODIFIED="1708512886421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio7.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Clases$TimeTest_previousSecond.ic" NAME="TimeTest.previousSecond Coverage Results" MODIFIED="1708460612837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio7.*</FILTER>
+    <SUITE FILE_PATH="coverage/Clases$CircleTest__1_.ic" NAME="CircleTest (1) Coverage Results" MODIFIED="1709224248938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.InterfazResizableYGeometricObject.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Clases$AccountTest.ic" NAME="AccountTest Coverage Results" MODIFIED="1708792108356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio3.*</FILTER>
+    <SUITE FILE_PATH="coverage/Clases$DogTest__1_.ic" NAME="DogTest (1) Coverage Results" MODIFIED="1709235585201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaAnimalImplementacionAlternativa.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Clases$AuthorTest_testToString.ic" NAME="AuthorTest.testToString Coverage Results" MODIFIED="1708777658402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Introduccion2.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Clases$AnimalTest.ic" NAME="AnimalTest Coverage Results" MODIFIED="1709121122419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.EjercciosHerencia.Ejercicio5.*</FILTER>
+    <SUITE FILE_PATH="coverage/Clases$CatTest.ic" NAME="CatTest Coverage Results" MODIFIED="1709231160233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaAnimalYSusSubclases.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Clases$RectangleTest_setWidth.ic" NAME="RectangleTest.setWidth Coverage Results" MODIFIED="1708447270287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio2.*</FILTER>
@@ -534,11 +647,11 @@
     <SUITE FILE_PATH="coverage/Clases$CircleTest_setRadius.ic" NAME="CircleTest.setRadius Coverage Results" MODIFIED="1708446461334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio1.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/Clases$LineSubTest_getBegin.ic" NAME="LineSubTest.getBegin Coverage Results" MODIFIED="1709245973555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Clases$RectangleTest_getPerimeter.ic" NAME="RectangleTest.getPerimeter Coverage Results" MODIFIED="1708447284224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio2.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Clases$CircleTest_getCircumference.ic" NAME="CircleTest.getCircumference Coverage Results" MODIFIED="1708446485185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio1.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Clases$InvoiceTest.ic" NAME="InvoiceTest Coverage Results" MODIFIED="1708789642408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio2.*</FILTER>
@@ -549,20 +662,14 @@
     <SUITE FILE_PATH="coverage/Clases$AuthorTest__1_.ic" NAME="AuthorTest (1) Coverage Results" MODIFIED="1708778533250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Introduccion2Mejorada.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Clases$BookTest.ic" NAME="BookTest Coverage Results" MODIFIED="1708778264961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>Introduccion2.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Clases$TimeTest_nextSecond.ic" NAME="TimeTest.nextSecond Coverage Results" MODIFIED="1708460753344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio7.*</FILTER>
+    <SUITE FILE_PATH="coverage/Clases$LineSubTest.ic" NAME="LineSubTest Coverage Results" MODIFIED="1709245248107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Clases$RectangleTest_getLength.ic" NAME="RectangleTest.getLength Coverage Results" MODIFIED="1708447233311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio2.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Clases$BookTest__2_.ic" NAME="BookTest (2) Coverage Results" MODIFIED="1708788056315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio1.*</FILTER>
-    </SUITE>
-    <SUITE FILE_PATH="coverage/Clases$MyCircleTest_getCircumference.ic" NAME="MyCircleTest.getCircumference Coverage Results" MODIFIED="1708795061707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Parte2.Ejercicio6.*</FILTER>
+    <SUITE FILE_PATH="coverage/Clases$LineTest.ic" NAME="LineTest Coverage Results" MODIFIED="1709243869013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.*</FILTER>
     </SUITE>
   </component>
 </project>

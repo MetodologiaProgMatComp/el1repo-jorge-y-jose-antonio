@@ -16,20 +16,91 @@ public class LineSub extends Point {
         this.end = end;
     }
 
-    public Point getBegin() {
-        return this;
+    // Public methods
+    // Inherits methods getX() and getY() from superclass Point
+
+    public void setEnd(Point end) {
+        this.end = end;
+    }
+
+    public void setEndX(int x) {
+        end.setX(x);
+    }
+
+    public void setEndY(int y) {
+        end.setY(y);
+    }
+
+    public void setEndXY(int x, int y) {
+        end.setXY(x, y);
     }
 
     public Point getEnd() {
         return end;
     }
 
-    // Public methods
-    // Inherits methods getX() and getY() from superclass Point
+    public int getEndX() {
+        return end.getX();
+    }
+
+    public int getEndY() {
+        return end.getY();
+    }
+
+
+    public void setBegin(Point begin) {
+        super.setXY(begin.getX(), begin.getY());
+    }
+
+    public void setBeginX(int x) {
+        super.setX(x);
+    }
+
+    public void setBeginY(int y) {
+        super.setY(y);
+    }
+
+    public void setBeginXY(int x, int y) {
+        super.setXY(x, y);
+    }
+
+    public Point getBegin() {
+
+        //Pregunta
+
+        //Pregunta
+
+        //Pregunta
+
+        //Pregunta
+
+        return this;
+
+        //Pregunta
+
+        //Pregunta
+
+    }
+
+    public int getBeginX() {
+        return super.getX();
+    }
+
+    public int getBeginY() {
+        return super.getY();
+    }
+
     @Override
     public String toString() {
         return "Line[Begin:" + super.toString() + ",End:" + end + "]";
     }
 
+    public double getLength() {
+        return super.distance(end);
+    }
+
+    public double getGradient() {
+        return Math.atan2((end.getX() - super.getX()), (end.getY() - super.getY()));
+    }
 
 }

@@ -1,7 +1,5 @@
 package es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementaciónEnClasesMovablePointYMovableCircle;
 
-import es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementacionEnClaseMovablePoint.Movable;
-
 public class MovablePoint implements Movable {
     int x;
     int y;
