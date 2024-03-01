@@ -1,68 +1,53 @@
 package es.uah.matcomp.mp.e1.ejerciciosclases.Parte1.Ejercicio3;
 
 public class Employee {
-
     private int id;
     private String firstName;
     private String lastName;
     private int salary;
 
-    public Employee(int id, String firstName, String lastName, int salary){
-
-        this.id = id;
-        this.firstName = firstName;
-        this.lastName = lastName;
-        this.salary = salary;
-
+    public Employee(int i,String fn,String ln,int s){
+        this.id = i;
+        this.firstName = fn;
+        this.lastName = ln;
+        this.salary = s;
     }
 
-    public int getId(){
-
+    public int getId() {
         return id;
-
     }
-    public String getFirstName(){
 
+    public String getFirstName() {
         return firstName;
-
     }
-    public String getLastName(){
 
+    public String getLastName() {
         return lastName;
-
     }
-    public String getName(){
 
-        return firstName + " " + lastName;
-
+    public String getName() {
+        return firstName + lastName;
     }
-    public int getSalary(){
 
+    public int getSalary() {
         return salary;
-
     }
-    public void setSalary(int salary){
 
+    public void setSalary(int salary) {
         this.salary = salary;
-
     }
 
-    public int getAnnualSalary(){
-
-        return salary * 12;
-
-    }
-    public int raiseSalary(int percent){
-
-        this.salary = salary + salary * percent / 100;
-        return salary;
-
+    public int getAnnualSalary() {
+        return 12 * salary;
     }
 
-    public String toString(){
-
-        return "Employee[id = " + id + ", name = " + firstName + " " + lastName + ", salary = " + salary + "]";
-
+    public int raiseSalary(int percent) {
+        int subido = (salary + ((salary * percent)/100));
+        this.salary = subido;
+        return subido;
     }
 
+    public String toString() {
+        return "Employee[id=" + id + ", Name=" + firstName + " " + lastName + ", salary=" + salary + "]";
+    }
 }

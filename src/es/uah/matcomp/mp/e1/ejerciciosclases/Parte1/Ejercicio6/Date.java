@@ -1,81 +1,48 @@
 package es.uah.matcomp.mp.e1.ejerciciosclases.Parte1.Ejercicio6;
 
 public class Date {
-
     private int day;
     private int month;
     private int year;
 
-    public Date(int day, int month, int year){
-
-        this.day = day;
-        this.month = month;
-        this.year = year;
-
+    public Date(int d,int m,int y) {
+        this.day = d;
+        this.month = m;
+        this.year = y;
     }
 
-    public int getDay(){
-
+    public int getDay() {
         return day;
-
     }
-    public int getMonth(){
 
+    public int getMonth() {
         return month;
-
     }
-    public int getYear(){
 
+    public int getYear() {
         return year;
-
     }
-    public void setDay(int day){
 
+    public void setDay(int day) {
         this.day = day;
-
     }
-    public void setMonth(int month){
 
+    public void setMonth(int month) {
         this.month = month;
-
     }
-    public void setYear(int year){
 
+    public void setYear(int year) {
         this.year = year;
-
     }
-    public void setDate(int day, int month, int year){
 
+    public void setDate(int day,int month,int year) {
         this.day = day;
         this.month = month;
         this.year = year;
-
     }
 
-    public String toString(){
-
-        if (day < 10){
-
-            if (month < 10){
-
-                return "0" + day + "/" + "0" + month + "/" + year;
-
-            }else {
-
-                return "0" + day + "/" + month + "/" + year;
-
-            }
-
-        } else if (month < 10) {
-
-            return day + "/" + "0" + month + "/" + year;
-
-        }else {
-
-            return day + "/" + month + "/" + year;
-
-        }
-
+    public String toString() {
+        return String.format("%02d",day) + "/" + String.format("%02d",month) + "/" + String.format("%04d",year);
     }
 
 }

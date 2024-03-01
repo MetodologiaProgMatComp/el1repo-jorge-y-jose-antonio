@@ -1,62 +1,47 @@
 package es.uah.matcomp.mp.e1.ejerciciosclases.Parte1.Ejercicio4;
 
 public class InvoiceItem {
-
     private String id;
     private String desc;
     private int qty;
     private double unitPrice;
 
-    public InvoiceItem(String id, String desc, int qty, double unitPrice){
-
-        this.id = id;
-        this.desc = desc;
-        this.qty = qty;
-        this.unitPrice = unitPrice;
-
+    public InvoiceItem(String i,String d,int q,double u){
+        this.id = i;
+        this.desc = d;
+        this.qty = q;
+        this.unitPrice = u;
     }
 
-    public String getId(){
-
+    public String getId() {
         return id;
-
     }
-    public String getDesc(){
 
+    public String getDesc() {
         return desc;
-
     }
-    public int getQty(){
 
+    public int getQty() {
         return qty;
-
     }
-    public void setQty(int qty){
 
+    public void setQty(int qty) {
         this.qty = qty;
-
     }
-    public double getUnitPrice(){
 
+    public double getUnitPrice() {
         return unitPrice;
-
     }
-    public void setUnitPrice(double unitPrice){
 
+    public void setUnitPrice(double unitPrice) {
         this.unitPrice = unitPrice;
-
     }
 
-    public double getTotal(){
-
+    public double getTotal() {
         return unitPrice * qty;
-
     }
 
-    public String toString(){
-
-        return "InvoiceItem[id = " + id + ", desc = " + desc + ", qty = " + qty + ", unitPrice = " + unitPrice + "]";
-
+    public String toString() {
+        return "InvoiceItem[id=" + id + ", desc=" + desc + ", qty=" + qty + ", unitPrice=" + unitPrice + "]";
     }
-
 }
