@@ -1,6 +1,6 @@
 package es.uah.matcomp.mp.e1.ejerciciosclases.Parte1.Ejercicio5;
 
-public class TestAccount {
+public class TestMain {
     public static void main(String[] args) {
         // Test constructor and toString()
         Account a1 = new Account("A101", "Tan Ah Teck", 88);
@@ -8,7 +8,7 @@ public class TestAccount {
         Account a2 = new Account("A102", "Kumar"); // default balance
         System.out.println(a2);
         // Test Getters
-        System.out.println("ID: " + a1.getID());
+        System.out.println("ID: " + a1.getId());
         System.out.println("Name: " + a1.getName());
         System.out.println("Balance: " + a1.getBalance());
         // Test credit() and debit()
@@ -23,4 +23,5 @@ public class TestAccount {
         System.out.println(a1);
         System.out.println(a2);
     }
+
 }

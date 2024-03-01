@@ -1,59 +1,73 @@
 package es.uah.matcomp.mp.e1.ejerciciosclases.Parte1.Ejercicio5;
 
 public class Account {
+
     private String id;
     private String name;
-    private int balance;
+    private int balance = 0;
 
-    public Account(String i,String n) {
-        this.balance = 0;
-        this.id = i;
-        this.name = n;
+    public Account(String id, String name){
+
+        this.id = id;
+        this.name = name;
+
+    }
+    public Account(String id, String name, int balance){
+
+        this.id = id;
+        this.name = name;
+        this.balance = balance;
+
     }
 
-    public Account(String i,String n,int b) {
-        this.balance = b;
-        this.id = i;
-        this.name = n;
-    }
+    public String getId(){
 
-    public String getID() {
-        return id;
-    }
+        return  id;
 
-    public String getName() {
-        return name;
     }
+    public String getName(){
 
-    public int getBalance() {
+        return  name;
+
+    }
+    public int getBalance(){
+
         return balance;
+
     }
 
-    public int credit(int amount) {
-        this.balance = (balance + amount);
+    public int credit(int amount){
+
+        this.balance = balance + amount;
         return balance;
-    }
 
-    public int debit(int amount) {
+    }
+    public int debit(int amount){
+
         if (amount <= balance){
+
             this.balance = balance - amount;
-        } else {
-            System.out.println("Amount exceeded balance");
+
+        }else {
+
+            System.out.println("Amount exceeded balance.");
+
         }
+
         return balance;
+
+    }
+    public int transferTo(Account another, int amount){
+
+        debit(amount);
+        another.balance = another.balance + amount;
+        return balance;
+
+    }
+    public String toString(){
+
+        return "Account[id = " + id + ", name = " + name + ", balance = " + balance + "]";
+
     }
 
-    public int transferTo(Account another,int amount) {
-        if (amount <= balance) {
-            debit(amount);
-            another.credit(amount);
-        } else {
-            System.out.println("Amount exceeded balance");
-        }
-        return this.balance;
-    }
-
-    public String toString() {
-        return "Account[id=" + id + ", name=" + name + ", balance=" + balance + "]";
-    }
 }

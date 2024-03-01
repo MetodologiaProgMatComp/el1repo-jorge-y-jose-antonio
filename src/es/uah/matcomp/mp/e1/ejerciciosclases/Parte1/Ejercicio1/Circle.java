@@ -1,36 +1,41 @@
 package es.uah.matcomp.mp.e1.ejerciciosclases.Parte1.Ejercicio1;
 
 public class Circle {
-    private double radius;
-    public Circle() { //Constructor default
-        this.radius = 1.0;
-    }
-    public Circle(double r) { //Constructor general
-        this.radius = r;
-    }
 
-    //Devuelve el radio del circulo
-    public double getRadius() {
-        return radius;
-    }
+    private double radius = 1.0;
 
-    //Funcion para establecer el radio
-    public void setRadius(double radius) {
+    public Circle(){};
+    public Circle(double radius){
+
         this.radius = radius;
+
     }
 
-    //Devuelve el area del circulo
-    public double getArea() {
-        return radius * radius * Math.PI;
+    public double getRadius(){
+
+        return radius;
+
+    }
+    public void setRadius(double radius){
+
+        this.radius = radius;
+
+    }
+    public double getArea(){
+
+        return Math.PI * Math.pow(radius,2.0);
+
+    }
+    public double getCircumference(){
+
+        return Math.PI * 2 * radius;
+
     }
 
-    //Devuelve la circunferencia (longitud) del circulo
-    public double getCircumference() {
-        return 2 * radius * Math.PI;
+    public String toString(){
+
+        return "Circle[radius = " + radius + "]";
+
     }
 
-    //La funcion toString
-    public String toString() {
-        return "Circle[radius=" + radius + "]";
-    }
 }

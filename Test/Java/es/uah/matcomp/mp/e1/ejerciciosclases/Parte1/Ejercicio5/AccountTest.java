@@ -12,7 +12,7 @@ class AccountTest {
         String id = "A01";
         Account account = new Account(id, "Jose");
 
-        assertEquals(id, account.getID());
+        assertEquals(id, account.getId());
 
     }
 

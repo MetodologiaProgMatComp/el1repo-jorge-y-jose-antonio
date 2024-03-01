@@ -4,7 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="035b911a-c540-4ae5-93d1-394c2f35d6af" name="Changes" comment="Todo terminado, a falta de una pequeña revision si eso." />
+    <list default="true" id="035b911a-c540-4ae5-93d1-394c2f35d6af" name="Changes" comment="Todo terminado, a falta de una pequeña revision si eso.">
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio1/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio2/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio3/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio4/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio5/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio6/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio7/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio8/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio2/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio2/RectangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio3/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio3/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio4/InvoiceItemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio4/InvoiceItemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio5/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio5/AccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio6/DateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio6/DateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio7/TimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio7/TimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio1/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio1/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio1/TestCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio2/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio2/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio2/TestRectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio3/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio3/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio3/TestEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio4/InvoiceItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio4/InvoiceItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio4/TestInvoiceItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio5/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio5/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio5/TestAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio6/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio6/Date.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio6/TestDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio7/TestTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio7/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio7/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio8/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio8/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/Parte1/Ejercicio8/TestBall.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -175,12 +207,43 @@
       <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementaciónEnClasesMovablePointYMovableCircle" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CircleTest">
+  <component name="RunManager" selected="JUnit.CircleTest (1)">
+    <configuration name="CircleTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Clases" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.Parte1.Ejercicio1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Parte1.Ejercicio1" />
+      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Parte1.Ejercicio1.CircleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CircleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Clases" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="CircleTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CircleTest.getRadius" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Clases" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.Parte1.Ejercicio1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Parte1.Ejercicio1" />
+      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.Parte1.Ejercicio1.CircleTest" />
+      <option name="METHOD_NAME" value="getRadius" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -216,51 +279,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LineSubTest.setBegin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Clases" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia" />
-      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.LineSubTest" />
-      <option name="METHOD_NAME" value="setBegin" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Clases" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia" />
-      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.LineTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CircleTest (1)" />
+        <item itemvalue="JUnit.CircleTest.getRadius" />
         <item itemvalue="JUnit.CircleTest" />
         <item itemvalue="JUnit.LineSubTest" />
         <item itemvalue="JUnit.LineSubTest.getBegin" />
-        <item itemvalue="JUnit.LineSubTest.setBegin" />
-        <item itemvalue="JUnit.LineTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-f644763e9732-c0c073db" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
       </set>
     </attachedChunks>
   </component>
@@ -315,6 +347,7 @@
       <workItem from="1709118761308" duration="10710000" />
       <workItem from="1709144544160" duration="1734000" />
       <workItem from="1709222845907" duration="15797000" />
+      <workItem from="1709296975180" duration="913000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicio de clases completo">
       <option name="closed" value="true" />

@@ -1,6 +1,7 @@
 package es.uah.matcomp.mp.e1.ejerciciosclases.Parte1.Ejercicio7;
 
-public class TestTime {
+public class TestMain {
+
     public static void main(String[] args) {
         // Test constructors and toString()
         Time t1 = new Time(1, 2, 3);
@@ -23,4 +24,6 @@ public class TestTime {
         System.out.println(t1.previousSecond());
         System.out.println(t1.previousSecond().previousSecond());
     }
+
+
 }

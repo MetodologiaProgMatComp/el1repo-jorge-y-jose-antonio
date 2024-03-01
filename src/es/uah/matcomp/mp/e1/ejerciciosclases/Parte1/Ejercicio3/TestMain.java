@@ -1,6 +1,6 @@
 package es.uah.matcomp.mp.e1.ejerciciosclases.Parte1.Ejercicio3;
 
-public class TestEmployee {
+public class TestMain {
     public static void main(String[] args) {
         // Test constructor and toString()
         Employee e1 = new Employee(8, "Peter", "Tan", 2500);
@@ -18,5 +18,4 @@ public class TestEmployee {
         System.out.println(e1.raiseSalary(10));
         System.out.println(e1);
     }
-
 }

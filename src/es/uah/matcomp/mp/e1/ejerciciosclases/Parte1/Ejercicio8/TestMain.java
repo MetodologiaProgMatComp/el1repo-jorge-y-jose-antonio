@@ -1,6 +1,7 @@
 package es.uah.matcomp.mp.e1.ejerciciosclases.Parte1.Ejercicio8;
 
-public class TestBall {
+public class TestMain {
+
     public static void main(String[] args) {
         // Test constructor and toString()
         Ball ball = new Ball(1.1f, 2.2f, 10, 3.3f, 4.4f);
@@ -37,5 +38,5 @@ public class TestBall {
             }
         }
     }
-
 }
+
