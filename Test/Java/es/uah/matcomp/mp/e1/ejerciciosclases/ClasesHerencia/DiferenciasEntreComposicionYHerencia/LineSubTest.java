@@ -106,7 +106,8 @@ class LineSubTest {
 
         LineSub line = new LineSub(point, new Point(3, 4));
 
-        assertEquals(point, line.getBegin());
+        assertEquals(point.getX(), line.getBegin().getX());
+        assertEquals(point.getY(), line.getBegin().getY());
     }
 
     @Test

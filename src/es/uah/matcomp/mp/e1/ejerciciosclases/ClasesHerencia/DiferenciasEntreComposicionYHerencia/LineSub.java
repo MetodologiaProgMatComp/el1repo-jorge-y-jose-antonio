@@ -65,21 +65,7 @@ public class LineSub extends Point {
     }
 
     public Point getBegin() {
-
-        //Pregunta
-
-        //Pregunta
-
-        //Pregunta
-
-        //Pregunta
-
-        return this;
-
-        //Pregunta
-
-        //Pregunta
-
+        return (Point)this;
     }
 
     public int getBeginX() {

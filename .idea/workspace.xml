@@ -4,29 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="035b911a-c540-4ae5-93d1-394c2f35d6af" name="Changes" comment="Quedan los tests">
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/DiferenciasEntreComposicionYHerencia/LineSubTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/DiferenciasEntreComposicionYHerencia/LineTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/DiferenciasEntreComposicionYHerencia/PointTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalImplementacionAlternativa/BigDogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalImplementacionAlternativa/CatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalImplementacionAlternativa/DogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalYSusSubclases/BigDogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalYSusSubclases/CatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaAnimalYSusSubclases/DogTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaShapeYSusSubclases/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaShapeYSusSubclases/RectangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/ClasesAbstractas/SuperclaseAbstractaShapeYSusSubclases/SquareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/GeometricObjectImplementacionEnClasesCircleYRectangle/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/GeometricObjectImplementacionEnClasesCircleYRectangle/RectangleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/InterfazResizableYGeometricObject/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/InterfazResizableYGeometricObject/ResizableCircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/MovableImplementacionEnClaseMovablePoint/MovablePointTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/MovableImplementaciónEnClasesMovablePointYMovableCircle/MovableCircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/MovableImplementaciónEnClasesMovablePointYMovableCircle/MovablePointTest.java" afterDir="false" />
+    <list default="true" id="035b911a-c540-4ae5-93d1-394c2f35d6af" name="Changes" comment="Preguntar por el metodo getBegin en LineSub, que no se ya que hacer">
+      <change afterPath="$PROJECT_DIR$/Test/Java/CircleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/DiferenciasEntreComposicionYHerencia/LineSubTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Java/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/DiferenciasEntreComposicionYHerencia/LineSubTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/DiferenciasEntreComposicionYHerencia/LineSub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/ClasesHerencia/DiferenciasEntreComposicionYHerencia/LineSub.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/MovableImplementaciónEnClasesMovablePointYMovableCircle/MovablePoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/es/uah/matcomp/mp/e1/ejerciciosclases/PolimorfismoClasesAbstractasEInterfaces/Interfaces/MovableImplementaciónEnClasesMovablePointYMovableCircle/MovablePoint.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +94,7 @@
     "JUnit.CatTest (1).executor": "Coverage",
     "JUnit.CatTest.executor": "Coverage",
     "JUnit.CircleTest (1).executor": "Coverage",
-    "JUnit.CircleTest.executor": "Coverage",
+    "JUnit.CircleTest.executor": "Run",
     "JUnit.CircleTest.getArea.executor": "Coverage",
     "JUnit.CircleTest.getCircumference.executor": "Coverage",
     "JUnit.CircleTest.getRadius.executor": "Coverage",
@@ -128,7 +110,7 @@
     "JUnit.InvoiceItemTest.executor": "Coverage",
     "JUnit.InvoiceTest.executor": "Coverage",
     "JUnit.LineSubTest.executor": "Coverage",
-    "JUnit.LineSubTest.getBegin.executor": "Coverage",
+    "JUnit.LineSubTest.getBegin.executor": "Run",
     "JUnit.LineSubTest.setBegin.executor": "Coverage",
     "JUnit.LineTest.executor": "Coverage",
     "JUnit.MovableCircleTest.executor": "Coverage",
@@ -187,18 +169,27 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
       <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia" />
       <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaAnimalImplementacionAlternativa" />
       <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaAnimalYSusSubclases" />
       <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.ClasesAbstractas.SuperclaseAbstractaShapeYSusSubclases" />
-      <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementaciónEnClasesMovablePointYMovableCircle" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.InterfazResizableYGeometricObject" />
       <recent name="es.uah.matcomp.mp.e1.ejerciciosclases.PolimorfismoClasesAbstractasEInterfaces.Interfaces.MovableImplementaciónEnClasesMovablePointYMovableCircle" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LineSubTest.getBegin">
+  <component name="RunManager" selected="JUnit.CircleTest">
+    <configuration name="CircleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Clases" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CircleTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LineSubTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Clases" />
       <extension name="coverage">
@@ -261,28 +252,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PointTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Clases" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia" />
-      <option name="MAIN_CLASS_NAME" value="es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.PointTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CircleTest" />
+        <item itemvalue="JUnit.LineSubTest" />
         <item itemvalue="JUnit.LineSubTest.getBegin" />
         <item itemvalue="JUnit.LineSubTest.setBegin" />
-        <item itemvalue="JUnit.LineSubTest" />
         <item itemvalue="JUnit.LineTest" />
-        <item itemvalue="JUnit.PointTest" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +319,7 @@
       <workItem from="1709118606383" duration="53000" />
       <workItem from="1709118761308" duration="10710000" />
       <workItem from="1709144544160" duration="1734000" />
-      <workItem from="1709222845907" duration="12726000" />
+      <workItem from="1709222845907" duration="15717000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicio de clases completo">
       <option name="closed" value="true" />
@@ -441,7 +417,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709146178736</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Preguntar por el metodo getBegin en LineSub, que no se ya que hacer">
+      <option name="closed" value="true" />
+      <created>1709246326388</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1709246326388</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -482,7 +466,8 @@
     <MESSAGE value="Añadido Herencias" />
     <MESSAGE value="Faltan los tests y el 6.7" />
     <MESSAGE value="Quedan los tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Quedan los tests" />
+    <MESSAGE value="Preguntar por el metodo getBegin en LineSub, que no se ya que hacer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Preguntar por el metodo getBegin en LineSub, que no se ya que hacer" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Clases$MovablePointTest__1_.ic" NAME="MovablePointTest (1) Coverage Results" MODIFIED="1709224985703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -647,7 +632,7 @@
     <SUITE FILE_PATH="coverage/Clases$CircleTest_setRadius.ic" NAME="CircleTest.setRadius Coverage Results" MODIFIED="1708446461334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.Ejercicio1.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Clases$LineSubTest_getBegin.ic" NAME="LineSubTest.getBegin Coverage Results" MODIFIED="1709245973555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Clases$LineSubTest_getBegin.ic" NAME="LineSubTest.getBegin Coverage Results" MODIFIED="1709294233503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Clases$RectangleTest_getPerimeter.ic" NAME="RectangleTest.getPerimeter Coverage Results" MODIFIED="1708447284224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -662,7 +647,7 @@
     <SUITE FILE_PATH="coverage/Clases$AuthorTest__1_.ic" NAME="AuthorTest (1) Coverage Results" MODIFIED="1708778533250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Introduccion2Mejorada.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/Clases$LineSubTest.ic" NAME="LineSubTest Coverage Results" MODIFIED="1709245248107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/Clases$LineSubTest.ic" NAME="LineSubTest Coverage Results" MODIFIED="1709294499848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>es.uah.matcomp.mp.e1.ejerciciosclases.ClasesHerencia.DiferenciasEntreComposicionYHerencia.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/Clases$RectangleTest_getLength.ic" NAME="RectangleTest.getLength Coverage Results" MODIFIED="1708447233311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
